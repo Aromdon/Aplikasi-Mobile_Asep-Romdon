@@ -1,0 +1,2 @@
+rootProject.name = "Aplikasi Mobile_Asep Romdon"
+include ':app'
